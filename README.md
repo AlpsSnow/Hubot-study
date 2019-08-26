@@ -1,3 +1,22 @@
+README
+===========================
+该文用来记录学习hubot过程中的一些知识点和发发。其中myhubot工程主要用来做一些学习实践。
+
+****
+	
+|Author|Emall|
+|---|---
+|wangx|344721710@qq.com
+
+****
+## 目录
+* [hubot学习](#hubot学习)
+* [myhubot工程](#myhubot的相关说明)
+
+****
+# hubot学习
+
+****
 # myhubot的相关说明
 
 myhubot is a chat bot built on the [Hubot][hubot] framework. It was
